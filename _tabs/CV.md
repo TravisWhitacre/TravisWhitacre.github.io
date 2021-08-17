@@ -29,7 +29,7 @@ Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Caps
 "Partisan Political Mortality Cycles", with Daniel Millimet (Southern Methodist University), <i>in progress</i> <br>
 "Health Trends in the LGBTQ+ Community", with Wookun Kim (Southern Methodist University), <i>in progress</i> <br>
 
-<font size="6"><p style="border-bottom:1px solid black;"><b>Research</b></p></font>
+<font size="6"><p style="border-bottom:1px solid black;"><b>Presentations</b></p></font>
 "Partisan Political Mortality Cycles" <br>
 <p style ="margin-left: 40px">Southern Economic Association in Houston (2021, <i>pending</i>)</p>
 "Measurement Error in Mental Health: The Effect of ADHD Diagnostic Errors on Life Outcomes"
@@ -75,7 +75,7 @@ Prof. Ryan Mattson and Prof. Anne Barthel (Fall 2016 - Spring 2019)
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Fellowships and Awards</b></p></font>
 <b>Teaching Assistanship:</b> Southern Methodist University (2019-2024) <br>
-<b>Outsandding Economics Graduate:</b> West Texas A&M University College of Business Symposium (2019) <br>
+<b>Outstanding Economics Graduate:</b> West Texas A&M University College of Business Symposium (2019) <br>
 <b>Student Research Enhancement Award,</b> with Ryan Mattson and Anne Barthel: West Texas A&M College of Business Symposium (2019) <br>
 <b>1st Place Undergraduate Paper:</b> West Texas A&M Student Research Conference (2017, 2018 and 2019) <br>
 <b>Economics Club Leadership Award:</b> West Texas A&M College of Business Symposium (2018) <br>
