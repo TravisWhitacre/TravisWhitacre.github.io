@@ -12,38 +12,38 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Travis Whitacre                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: SMU Department of Economics   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  I am an economics PhD student whose fields
+  are health economics, and applied microeconomics
+  with intersection into economic education and demography.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://TravisWhitacre.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: TravisWhitacre            # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: TravisWhitacre            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Travis_R._Whitacre
+  email: twhitacre@smu.edu             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/TravisWhitacre      # change to your twitter homepage
+    - https://github.com/TravisWhitacre       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: light  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -81,8 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
-
+avatar: https://avatars.githubusercontent.com/u/88951051?s=400&u=ce507c29c9773b5ba8ad70b6d326eb9ce864bd24&v=4
 # boolean type, the global switch for ToC in posts.
 toc: true
 
@@ -118,7 +117,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true    # Enable comments in posts.
+      comments: false    # Enable comments in posts.
       toc: true         # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
