@@ -1,7 +1,7 @@
 ---
 title: Research
 icon: fas fa-Research
-order: 3
+order: 1
 ---
 
 I am a PhD student and applied health economist in the Department of Economics
