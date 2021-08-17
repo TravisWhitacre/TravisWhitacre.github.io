@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://traviswhitacre.github.io/posts/welcome-to-jekyll/</loc>
+<lastmod>2021-08-16T16:47:39-05:00</lastmod>
+</url>
+<url>
+<loc>https://traviswhitacre.github.io/tags/</loc>
+<lastmod>2021-08-17T14:50:51-05:00</lastmod>
+</url>
+<url>
+<loc>https://traviswhitacre.github.io/research/</loc>
+<lastmod>2021-08-17T14:50:51-05:00</lastmod>
+</url>
+<url>
+<loc>https://traviswhitacre.github.io/</loc>
+</url>
+<url>
+<loc>https://traviswhitacre.github.io/categories/jekyll/</loc>
+</url>
+<url>
+<loc>https://traviswhitacre.github.io/categories/update/</loc>
+</url>
+</urlset>

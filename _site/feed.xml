@@ -1,0 +1,62 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://traviswhitacre.github.io/</id>
+  <title>Travis Whitacre</title>
+  <subtitle>I am an economics PhD student whose fields are health economics, and applied microeconomics with intersection into economic education and demography.</subtitle>
+  <updated>2021-08-17T14:50:51-05:00</updated>
+  <author>
+    <name>Travis_R._Whitacre</name>
+    <uri>https://traviswhitacre.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://traviswhitacre.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://traviswhitacre.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
+  <rights> © 2021 Travis_R._Whitacre </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>About Me</title>
+    <link href="https://traviswhitacre.github.io/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="About Me" />
+    <published>2021-08-16T16:47:39-05:00</published>
+  
+    <updated>2021-08-16T16:47:39-05:00</updated>
+  
+    <id>https://traviswhitacre.github.io/posts/welcome-to-jekyll/</id>
+    <content src="https://traviswhitacre.github.io/posts/welcome-to-jekyll/" />
+    <author>
+      <name>Travis_R._Whitacre</name>
+    </author>
+
+  
+    
+    <category term="jekyll" />
+    
+    <category term="update" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I am a PhD student in the Department of Economics at SMU. My primary fields are Health Economics and Applied Microeconometrics, but my research also intersects
+with the Economics of Education and Economic Demography. I am currently a third year student, so be on the lookout for a working draft of a few of my current
+projects soon!
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
