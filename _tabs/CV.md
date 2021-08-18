@@ -13,7 +13,7 @@ order: 2
   <b>Teaching Interests:</b>: Health Economics, Econometrics, Labor economics
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Education</b></p></font>
-<b>PhD in Economics</b>, May 2024 (Expected) <br>
+<b>PhD in Economics</b>, May 2024 (Expected) <br> 
 <i>Southern Methodist Univeristy</i> <br>
 Advised by: Daniel Millimet <br>
 <br>
