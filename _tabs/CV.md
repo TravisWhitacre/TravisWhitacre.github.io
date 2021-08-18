@@ -21,7 +21,7 @@ Advised by: Daniel Millimet <br>
 <i>Southern Methodist University</i> <br>
 <br>
 <b>B.S. in Economics</b>, May 2019 <br>
-<i>West Texas A&M University</i>
+<i>West Texas A&M University</i> <br>
 Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Capstone Thesis: "An Experimental Approach to Travel Warnings"<br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Research</b></p></font>
