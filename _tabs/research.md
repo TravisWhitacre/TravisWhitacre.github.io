@@ -1,5 +1,5 @@
 --- 
-title: Research
+title: Research 
 icon: fas fa-Research
 order: 1
 ---
