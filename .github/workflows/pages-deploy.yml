@@ -44,7 +44,7 @@ jobs:
 
       - name: Deploy
         run: |
-         git checkout -f branch
+         git checkout -f main
          if [[ -n $BASE_URL ]]; then
             mv _site$BASE_URL _site-rename
             rm -rf _site
