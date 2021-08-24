@@ -19,7 +19,7 @@ capital and labor market outcomes**
     and their future economic and educational attainment outcomes. I am using
     longitudinal data from the restricted Add Health data set which follows the same
     cohort from 1995-2017.
-  + In this project I extend a theoretical model from Chen Jr et al. (2019) to determine
+  + In this project I extend a theoretical model from Chen Jr (2019) and Marquardt (2021) to determine
     the probability of a false negative being derived from variables which *cause ADHD*
     and variables which *correlate with a diagnosis*. I use a both a Genome Wide Association
     Study (GWAS) and random forest approach to determine which genetic variables
