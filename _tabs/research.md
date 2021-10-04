@@ -1,5 +1,5 @@
---- 
-title: Research 
+---
+title: Research
 icon: fas fa-Research
 order: 1
 ---
@@ -18,8 +18,8 @@ themes:
     relation between an individual having ADHD but going undiagnosed (a false negative)
     and their future economic and educational attainment outcomes. I am using
     longitudinal data from the restricted Add Health data set which follows the same
-    cohort from 1995-2017. In this project I extend a theoretical model from Chan Jr (2019) 
-    and Marquardt (2021) to determine the probability of a false negative being derived from variables 
+    cohort from 1995-2017. In this project I extend a theoretical model from Chan Jr (2019)
+    and Marquardt (2021) to determine the probability of a false negative being derived from variables
     which *cause ADHD* and variables which *correlate with a diagnosis*. I use a both a Genome Wide Association
     Study (GWAS) and random forest approach to determine which genetic variables
     to choose in the causal portion of the model. I then use a partial observability model
@@ -29,10 +29,9 @@ themes:
     indicate that as the probability that an individual is a false negative rises,
     their probability of higher education attainment and probability of both being
     employed and being in a higher income bracket falls significantly.
-  + A second project, joint with Shuo Qi, is currently in a preliminary phase looking at the question: 
-    How do peer decisions to seek mental health, in a school setting, affect an individual agent’s decision 
-    to seek mental health? Ie. If more friends in your network seek mental health care, 
-    how does that affect your stigma of seeking mental health care?
+  + A second project, joint with Shuo Qi, is currently in a preliminary phase looking at the question:
+    How do peer decisions to seek mental health, in a school setting, affect an individual agent’s decision
+    to seek mental health care? Primarily, stigma research has been focused within the setting of selecting into governmental welfare-like programs. We are looking to consider stigma in a school setting regarding child mental health. Our first step approach is to take advantage of the Add Health network structure using an IV linear in means model, where characteristics of second degree friends are used as an instrument to deal with the endogeneity problem with peer effects.
 
 * **Demographic health and mortality trends in the US based on political ideology
 and sexual orientation**
