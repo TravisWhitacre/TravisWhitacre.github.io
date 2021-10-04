@@ -7,7 +7,7 @@ order: 1
 I am a PhD student and applied health economist in the Department of Economics
 at SMU. While, all of my research fits in the health economics and applied
 microeconometrics, my current research projects falls under the following
-themes:
+themes: 
 
 * **Child Mental Health and Development using Add Health data**
   + I am currently working on two projects using the Add Health data set described below:
