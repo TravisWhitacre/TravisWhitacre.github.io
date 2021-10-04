@@ -29,7 +29,10 @@ themes:
     indicate that as the probability that an individual is a false negative rises,
     their probability of higher education attainment and probability of both being
     employed and being in a higher income bracket falls significantly.
-  + A second project, joint with Shuo Qi, is currently in a preliminary phase looking at the question: How do peer decisions to seek mental health, in a school setting, affect an individual agent’s decision to seek mental health? Ie. If more friends in your network seek mental health care, how does that affect your stigma of seeking mental health care?
+  + A second project, joint with Shuo Qi, is currently in a preliminary phase looking at the question: 
+    How do peer decisions to seek mental health, in a school setting, affect an individual agent’s decision 
+    to seek mental health? Ie. If more friends in your network seek mental health care, 
+    how does that affect your stigma of seeking mental health care?
 
 * **Demographic health and mortality trends in the US based on political ideology
 and sexual orientation**
