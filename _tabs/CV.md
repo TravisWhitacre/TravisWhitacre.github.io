@@ -6,7 +6,7 @@ order: 2
  
 <font size="12"><p style="text-align: center;"><b>Travis R. Whitacre</b></p></font>
 <p style="text-align: center;">8650 Southwestern Blvd Apt 2724 Dallas, TX 75206</p>
-<p style="text-align: center;">817-727-7508</p>
+<p style="text-align: center;">817-727-7508</p> 
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Research and Teaching Interests</b></p></font>
   <b>Research Interests:</b> Health Economics, Applied Microeconometrics <br>
