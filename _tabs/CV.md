@@ -25,9 +25,9 @@ Advised by: Daniel Millimet <br>
 Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Capstone Thesis: "An Experimental Approach to Travel Warnings"<br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Research</b></p></font>
-"Measurement Error in Mental Health: The Effect of ADHD Diagnostic Errors on Life Outcomes", <i>in progress</i> <br>
-"Stigma in Mental Healthcare: How Peer Networks Affect Student Decisions to Seek Help", <i>in progress</i> <br>
-"Partisan Political Mortality Cycles", with Daniel Millimet (Southern Methodist University), <i>in progress</i> <br>
+"Measurement Error in Mental Health: The Effect of ADHD Diagnostic Errors on Life Outcomes", <i>Working Paper, draft available upon request</i> <br>
+"Partisan Political Mortality Cycles", with Daniel Millimet (Southern Methodist University), <i>Working Paper, draft available upon request</i> <br>
+"Stigma in Mental Healthcare: How Peer Networks Affect Student Decisions to Seek Help", with Shuo Qi (Southern Methodist University, <i>in progress</i> <br>
 "Health Trends in the LGBTQ+ Community", with Wookun Kim (Southern Methodist University), <i>in progress</i> <br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Presentations</b></p></font>
@@ -72,8 +72,8 @@ Prof. Wookun Kim (Summer 2021) <br>
 Prof. Ryan Mattson and Prof. Anne Barthel (Fall 2016 - Spring 2019)
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Programming Skills</b></p></font>
-<b>Programming:</b> R, Stata, SAS, Matlab, Julia <br>
-<b>Typeset:</b> LaTeX (Overleaf, TeX Maker and LyX), Markdown, html, Microsoft Suites <br>
+<b>Programming:</b> R, Stata, SAS, Matlab, Julia, Python <br>
+<b>Typeset:</b> LaTeX (Overleaf, TeX Maker and LyX), Markdown, html, Microsoft Suites, Jupyter Notebook <br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Fellowships and Awards</b></p></font>
 <b>Teaching Assistanship:</b> Southern Methodist University (2019-2024) <br>
@@ -86,4 +86,4 @@ Prof. Ryan Mattson and Prof. Anne Barthel (Fall 2016 - Spring 2019)
 <font size="6"><p style="border-bottom:1px solid black;"><b>Professional Activities</b></p></font>
 <b>Professional Memberships:</b> Member of American Society of Health Economics (2021 - present), Omicron Delta Epsilon (2018 - Present), Beta Gamma Sigma (2018 - Present), Rogers LEAD WT Program (2017-2019) <br>
 <b>Professional Workshops:</b> 2021 Add Health Virtual Workshop, Electronic Health Economics Colloquium (2021), SMU Microeconomics Workshop (2021), SMU Experimental Economics Workshop (2020) <br>
-<b>Professional Services:</b> President of SMU Econ Graduate Club (2021-2022), Mentor for SMU Peer Mentorship Program (2020-2022), Ambassador for Graduate Student Orientation at SMU (2021), Board Member for SMU Econ Graduate Club (2020-2021), Student Hiring Search Committee for SMU University Chaplain (2020), President of WT Econ Club (2018-2019), Peer Review Board Member for Dallas Federal Reserve Economic Scholars Program (2018), Discussant for Dallas Federal Reserve Economic Scholars Program (2017-2019)
+<b>Professional Services:</b> Organizer for Fall 2021 SMU Alumni Panel (2021), President of SMU Econ Graduate Club (2021-2022), Mentor for SMU Peer Mentorship Program (2020-2022), Ambassador for Graduate Student Orientation at SMU (2021), Board Member for SMU Econ Graduate Club (2020-2021), Student Hiring Search Committee for SMU University Chaplain (2020), President of WT Econ Club (2018-2019), Peer Review Board Member for Dallas Federal Reserve Economic Scholars Program (2018), Discussant for Dallas Federal Reserve Economic Scholars Program (2017-2019)
