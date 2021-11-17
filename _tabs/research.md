@@ -21,7 +21,7 @@ themes:
     cohort from 1995-2017. In this project I extend a theoretical model from Chan Jr (2019)
     and Marquardt (2021) to determine the probability of a false negative being derived from variables
     which *cause ADHD* and variables which *correlate with a diagnosis*. I use a both a Genome Wide Association
-    Study (GWAS) and random forest approach to determine which genetic variables
+    Study (GWAS) and Lasso model to determine which genetic variables
     to choose in the causal portion of the model. I then use a partial observability model
     to derive the probability of a false negative for each individual in the data set
     and then use a probit model to see the effect of a higher probability of a false
