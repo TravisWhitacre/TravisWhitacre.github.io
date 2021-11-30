@@ -61,7 +61,7 @@ Principles of Macroeconomics (Spring 2020) <br>
 International Trade (Fall 2019) <br>
 
 <b>Teaching Assistant, West Texas A&M</b> <br>
-Princinples of Microeconomics (Spring 2017 - Spring 2019) <br>
+Principles of Microeconomics (Spring 2017 - Spring 2019) <br>
 Principles of Macroeconomics (Fall 2016 - Spring 2019) <br>
 
 <b>Research Assistant, SMU</b> <br>
