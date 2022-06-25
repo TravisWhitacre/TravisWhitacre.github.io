@@ -25,17 +25,26 @@ Advised by: Daniel Millimet <br>
 Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Capstone Thesis: "An Experimental Approach to Travel Warnings"<br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Research</b></p></font>
-"Measurement Error in Mental Health: The Effect of ADHD Diagnostic Errors on Life Outcomes", <i>Working Paper, draft available upon request</i> <br>
-"Partisan Political Mortality Cycles", with Daniel Millimet (Southern Methodist University), <i>Working Paper, draft available upon request</i> <br>
+"Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis", <i>Working Paper, draft available upon request</i> <br>
+"Partisan Mortality Cycles", with Daniel Millimet (Southern Methodist University), <i>Working Paper, draft available upon request</i> <br>
 "Stigma in Mental Healthcare: How Peer Networks Affect Student Decisions to Seek Help", with Shuo Qi (Southern Methodist University, <i>in progress</i> <br>
 "Health Trends in the LGBTQ+ Community", with Wookun Kim (Southern Methodist University), <i>in progress</i> <br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Presentations</b></p></font>
-"Partisan Political Mortality Cycles" <br>
-<p style ="margin-left: 40px">Southern Economic Association in Houston (2021), <i>pending</i>)</p>
-<p style ="margin-left: 40px">Fall Microeconomics Workshop at SMU (2021), <i>pending</i>)</p>
-"Measurement Error in Mental Health: The Effect of ADHD Diagnostic Errors on Life Outcomes"
-<p style ="margin-left: 40px">Spring Microeconomics Workshop at SMU (2021)</p>
+"Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis"
+<p style ="margin-left: 40px">Presidential Session at Southern Economics Association in Fort Lauderdale (2022, pending)</p>
+<p style ="margin-left: 40px">American Society of Health Economics in Austin, TX (2022)</p>
+<p style ="margin-left: 40px">Society of Economic Measurement in Calgary, Canada (2022)</p>
+<p style ="margin-left: 40px">Research and Innovation Week at SMU (2022)</p>
+<p style ="margin-left: 40px">Brown Bag Seminar Series at SMU (2022)</p>
+<p style ="margin-left: 40px">3rd Year Paper Seminar at SMU (2022)</p>
+<p style ="margin-left: 40px">Spring Microeconomics Workshop at SMU (2021, 2022)</p>
+"Partisan Mortality Cycles" <br>
+<p style ="margin-left: 40px">Canadian Economics Association in Ottawa, Canada (2022) </p>
+<p style ="margin-left: 40px">Southern Economics Association in Houston (2021) </p>
+<p style ="margin-left: 40px">Fall Microeconomics Workshop at SMU (2021) </p>
+"Stigma in Mental Healthcare: How Peer Networks Affect Student Decisions to Seek Help
+<p style ="margin-left: 40px">Southern Economics Association in Fort Lauderdale (2022, pending)</p>
 "Gender Inequality and the Solow Model"
 <p style ="margin-left: 40px">13th Annual Undergraduate Research Conference at the Federal Reserve Bank of Dallas (2019)</p>
 <p style ="margin-left: 40px">West Texas A&M University Student Research Conference (2019)</p>
@@ -48,10 +57,14 @@ Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Caps
 <p style ="margin-left: 40px">West Texas A&M University Student Research Conference (2017)</p>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Academic Experience</b></p></font>
+<b>Instructor, SMU</b> <br>
+Intermediate Microeconomics (Summer 2022) <br>
+
 <b>Teaching Assistant, SMU</b> <br>
+PhD Econometrics I (Spring 2022) <br>
+Economic and Business Forecasting (Fall 2020, Fall 2021, Spring 2022) <br>
+Introductory Econometrics (Fall 2020, Fall 2021, Spring 2022) <br>
 PhD Econometrics III (Fall 2021) <br>
-Economic and Business Forecasting (Fall 2020, Fall 2021) <br>
-Introductory Econometrics (Fall 2020, Fall 2021) <br>
 Managerial Economics (Spring 2021, Summer 2021, Fall 2021)  <br>
 Environmental Economics (Spring 2021) <br>
 Economics of Human Rights (Spring 2021) <br>
@@ -65,7 +78,7 @@ Principles of Microeconomics (Spring 2017 - Spring 2019) <br>
 Principles of Macroeconomics (Fall 2016 - Spring 2019) <br>
 
 <b>Research Assistant, SMU</b> <br>
-Prof. Daniel Millimet (Summer 2021) <br>
+Prof. Daniel Millimet (Summer 2021, Summer 2022) <br>
 Prof. Wookun Kim (Summer 2021) <br>
 
 <b>Research Assistant, West Texas A&M</b> <br>
@@ -76,6 +89,7 @@ Prof. Ryan Mattson and Prof. Anne Barthel (Fall 2016 - Spring 2019)
 <b>Typeset:</b> LaTeX (Overleaf, TeX Maker and LyX), Markdown, html, Microsoft Suites, Jupyter Notebook <br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Fellowships and Awards</b></p></font>
+<b>Best 3rd Year Paper Award:</b> Southern Methodist University (2022) <br>
 <b>Teaching Assistanship:</b> Southern Methodist University (2019-2024) <br>
 <b>Outstanding Economics Graduate:</b> West Texas A&M University College of Business Symposium (2019) <br>
 <b>Student Research Enhancement Award,</b> with Ryan Mattson and Anne Barthel: West Texas A&M College of Business Symposium (2019) <br>
@@ -84,6 +98,36 @@ Prof. Ryan Mattson and Prof. Anne Barthel (Fall 2016 - Spring 2019)
 <b>2nd Place Undergraduate Presentation:</b> West Texas A&M Student Research Conference (2017)
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Professional Activities</b></p></font>
-<b>Professional Memberships:</b> Member of American Society of Health Economics (2021 - present), Omicron Delta Epsilon (2018 - Present), Beta Gamma Sigma (2018 - Present), Rogers LEAD WT Program (2017-2019) <br>
-<b>Professional Workshops:</b> 2021 Add Health Virtual Workshop, Electronic Health Economics Colloquium (2021), SMU Microeconomics Workshop (2021), SMU Experimental Economics Workshop (2020) <br>
-<b>Professional Services:</b> Organizer for Fall 2021 SMU Alumni Panel (2021), President of SMU Econ Graduate Club (2021-2022), Mentor for SMU Peer Mentorship Program (2020-2022), Ambassador for Graduate Student Orientation at SMU (2021), Board Member for SMU Econ Graduate Club (2020-2021), Student Hiring Search Committee for SMU University Chaplain (2020), President of WT Econ Club (2018-2019), Peer Review Board Member for Dallas Federal Reserve Economic Scholars Program (2018), Discussant for Dallas Federal Reserve Economic Scholars Program (2017-2019)
+<b>Professional Memberships:</b> <br>
+Member of American Society of Health Economics (2021 - present) <br>
+Member of Canadian Economics Association (2022 - present) <br>
+Dedman College Student Advisory Board for Diversity and Inclusion (2022-2024) <br>
+Omicron Delta Epsilon (2018 - Present) <br>
+Beta Gamma Sigma (2018 - Present) <br>
+Rogers LEAD WT Program (2017-2019) <br>
+<b>Professional Services:</b> <br>
+President of SMU Econ Graduate Club (2021-2023) <br>
+Treasurer for Dedmand College Student Advisory Board for Diversity and Inclusion (2022-2023) <br>
+Mentor for SMU Economics Peer Mentorship Program (2020-2023) <br>
+Discussant at Canadian Economics Association (2022) <br>
+Discussant at American Society of Health Economics (2022) <br>
+Tutor for Altshuler Learning Enhancement Center at SMU (2022) <br>
+Organizer for Spring 2022 SMU Qualifying Exam Q&A Panel (2022) <br>
+Promotional Director for Ukirk SMU (2022-2023) <br>
+Guest Presenter for WT Economics Club (2021) <br>
+Organizer for Fall 2021 SMU Alumni Panel (2021) <br>
+Ambassador for Graduate Student Orientation at SMU (2021) <br>
+Board Member for SMU Econ Graduate Club (2020-2021) <br>
+Student Hiring Search Committee for SMU University Chaplain (2020) <br>
+President of WT Econ Club (2018-2019) <br>
+Peer Review Board Member for Dallas Federal Reserve Economic Scholars Program (2018) <br>
+Discussant for Dallas Federal Reserve Economic Scholars Program (2017-2019)
+
+<b>Professional Workshops:</b> <br>
+SMU Microeconomics Workshop (2021-2022)
+American Society of Health Economics Mentoring Program (2022) <br>
+Electronic Health Economics Colloquium (2021-2022) <br>
+SMU How to Do Research Workshop (2021-2022) <br>
+SMU Research & Innovation Week Workshop (2022) <br>
+2021 Add Health Virtual Workshop <br>
+SMU Experimental Economics Workshop (2020) <br>
