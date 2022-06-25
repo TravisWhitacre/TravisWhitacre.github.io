@@ -59,7 +59,7 @@ Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Caps
 Intermediate Microeconomics (Summer 2022) <br>
 
 <b>Teaching Assistant, SMU</b> <br>
-PhD Econometrics I (Spring 2022) <br>
+PhD Econometrics I (Spring 2022) <br> 
 Economic and Business Forecasting (Fall 2020, Fall 2021, Spring 2022) <br>
 Introductory Econometrics (Fall 2020, Fall 2021, Spring 2022) <br>
 PhD Econometrics III (Fall 2021) <br>
