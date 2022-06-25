@@ -7,8 +7,8 @@ order: 2
 <font size="12"><p style="text-align: center;"><b>Travis R. Whitacre</b></p></font>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Research and Teaching Interests</b></p></font>
-  <b>Research Interests:</b> Health Economics, Applied Microeconometrics <br>
-  <b>Teaching Interests:</b>: Health Economics, Econometrics, Labor economics
+  <b>Research Interests:</b> Health Economics, Applied Microeconometrics, Economics of Education<br>
+  <b>Teaching Interests:</b>: Health Economics, Econometrics, Labor Economics
  
 <font size="6"><p style="border-bottom:1px solid black;"><b>Education</b></p></font> 
 <b>PhD in Economics</b>, May 2024 (Expected) <br> 
