@@ -7,7 +7,7 @@ order: 1
 <img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/258815473_4605088749557787_7039249668726087932_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=vMmgo0bOxNoAX9TVkYb&_nc_ht=scontent-dfw5-2.xx&oh=00_AT-oKgwpfWG6Wi34umAyy8T586iLzcBw_AD6DaeYX9j1EQ&oe=62BCF329" alt="Southern Economics Association 2022">
 
 I am a PhD student and applied health economist in the Department of Economics
-at SMU. While, all of my research fits in the health economics and applied
+at SMU. While, all of my research fits in the health economics and applied 
 microeconometrics, my current research projects are: 
 
 * **Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis**, _working paper, draft available upon request_
