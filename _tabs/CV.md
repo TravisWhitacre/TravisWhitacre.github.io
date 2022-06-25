@@ -14,7 +14,7 @@ order: 2
 <b>PhD in Economics</b>, May 2024 (Expected) <br> 
 <i>Southern Methodist Univeristy</i> <br>
 Advised by: Daniel Millimet <br>
-Committee Members: Wookun Kim, Nathaniel Pattison
+Committee Members: Wookun Kim, Nathaniel Pattison <br>
 <br>
 <b>M.A. in Economics</b>. May 2021 <br>
 <i>Southern Methodist University</i> <br>
@@ -120,7 +120,7 @@ Board Member for SMU Econ Graduate Club (2020-2021) <br>
 Student Hiring Search Committee for SMU University Chaplain (2020) <br>
 President of WT Econ Club (2018-2019) <br>
 Peer Review Board Member for Dallas Federal Reserve Economic Scholars Program (2018) <br>
-Discussant for Dallas Federal Reserve Economic Scholars Program (2017-2019)
+Discussant for Dallas Federal Reserve Economic Scholars Program (2017-2019) <br>
 
 <b>Professional Workshops:</b> <br>
 SMU Microeconomics Workshop (2021-2022)
