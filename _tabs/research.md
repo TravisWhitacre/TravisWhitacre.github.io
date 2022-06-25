@@ -8,7 +8,7 @@ order: 1
 
 I am a PhD student and applied health economist in the Department of Economics
 at SMU. While, all of my research fits in the health economics and applied
-microeconometrics, my current research projects are:
+microeconometrics, my current research projects are: 
 
 * **Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis**, _working paper, draft available upon request_
   + While diagnostic errors are prevalent throughout health and mental health fields, little is known about their long-term consequences. Here, I assess the long-term education and labor market effects of missed ADHD diagnoses. Doing so is challenging for two reasons. First, a person's true ADHD status is unobserved; only their diagnosed status is known. Second, even if diagnostic errors are observed, they are likely akin to non-classical misclassification errors and therefore endogenous. Using data from Add Health I extend on and use the partial observability model developed in Nguimkeu, Denteh, and Tchernis (2019). I assess the effect of true ADHD status and the probability of a missed diagnosis on adult education and labor market outcomes. The model finds striking results. The first is that the model predicts ADHD is underdiagnosed. Second, large diagnostic gaps exist based on the lines of sex, race, ethnicity, and parental socioeconomic status. Third, the model predicts that both ADHD and a missed diagnosis are highly detrimental for human capital development, and that large improvements can be made with correct diagnosis. These results provide evidence of viscous intergenerational cycles in which inequity in mental health care drives and is driven by socioeconomic inequities.
