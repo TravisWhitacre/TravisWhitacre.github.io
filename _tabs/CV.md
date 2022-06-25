@@ -14,6 +14,7 @@ order: 2
 <b>PhD in Economics</b>, May 2024 (Expected) <br> 
 <i>Southern Methodist Univeristy</i> <br>
 Advised by: Daniel Millimet <br>
+Committee Members: Wookun Kim, Nathaniel Pattison
 <br>
 <b>M.A. in Economics</b>. May 2021 <br>
 <i>Southern Methodist University</i> <br>
