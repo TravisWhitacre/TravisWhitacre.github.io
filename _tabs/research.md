@@ -6,47 +6,15 @@ order: 1
 
 I am a PhD student and applied health economist in the Department of Economics
 at SMU. While, all of my research fits in the health economics and applied
-microeconometrics, my current research projects falls under the following
-themes: 
+microeconometrics, my current research projects are:
 
-* **Child Mental Health and Development using Add Health data**
-  + I am currently working on two projects using the Add Health data set described below:
-  + ADHD is a lifelong child development disorder which is documented to have significant
-    effects on education attainment, labor market outcomes and risky behaviors. The
-    current literature provides evidence that it is underdiagnosed, especially among
-    non-white and female populations. I currently am working on understanding the
-    relation between an individual having ADHD but going undiagnosed (a false negative)
-    and their future economic and educational attainment outcomes. I am using
-    longitudinal data from the restricted Add Health data set which follows the same
-    cohort from 1995-2017. In this project I extend a theoretical model from Chan Jr (2019)
-    and Marquardt (2021) to determine the probability of a false negative being derived from variables
-    which *cause ADHD* and variables which *correlate with a diagnosis*. I use a both a Genome Wide Association
-    Study (GWAS) and Lasso model to determine which genetic variables
-    to choose in the causal portion of the model. I then use a partial observability model
-    to derive the probability of a false negative for each individual in the data set
-    and then use a probit model to see the effect of a higher probability of a false
-    negative on educational attainment and financial outcomes. Preliminary results
-    indicate that as the probability that an individual is a false negative rises,
-    their probability of higher education attainment and probability of both being
-    employed and being in a higher income bracket falls significantly.
-  + A second project, joint with Shuo Qi, is currently in a preliminary phase looking at the question:
-    How do peer decisions to seek mental health, in a school setting, affect an individual agent’s decision
-    to seek mental health care? Primarily, stigma research has been focused within the setting of selecting into governmental welfare-like programs. We are looking to consider stigma in a school setting regarding child mental health. Our first step approach is to take advantage of the Add Health network structure using an IV linear in means model, where characteristics of second degree friends are used as an instrument to deal with the endogeneity problem with peer effects.
+* **Hiddenn in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis**, _working paper, draft available upon request_
+ + While diagnostic errors are prevalent throughout health and mental health fields, little is known about their long-term consequences. Here, I assess the long-term education and labor market effects of missed ADHD diagnoses. Doing so is challenging for two reasons. First, a person's true ADHD status is unobserved; only their diagnosed status is known. Second, even if diagnostic errors are observed, they are likely akin to non-classical misclassification errors and therefore endogenous. Using data from Add Health I extend on and use the partial observability model developed in Nguimkeu, Denteh, and Tchernis (2019). I assess the effect of true ADHD status and the probability of a missed diagnosis on adult education and labor market outcomes. The model finds striking results. The first is that the model predicts ADHD is underdiagnosed. Second, large diagnostic gaps exist based on the lines of sex, race, ethnicity, and parental socioeconomic status. Third, the model predicts that both ADHD and a missed diagnosis are highly detrimental for human capital development, and that large improvements can be made with correct diagnosis. These results provide evidence of viscous intergenerational cycles in which inequity in mental health care drives and is driven by socioeconomic inequities.
 
-* **Demographic health and mortality trends in the US based on political ideology
-and sexual orientation**
-  + I am currently working on two projects within the fields of health and economic
-  demography.
-  + The first project, joint with Daniel L. Millimet, explores the intersection
-  between mortality trends and the ideology of state and federal political administrations
-  in the US. We motivate the study through Chetty et. al (2016)'s paper over the
-  association of income and life expectancy within the United States. We use CDC
-  mortality data from 1968-2016 and ideology data from DWNominate and state ideology
-  data from Richard C. Fording. We explore differences in mortality associated with
-  the political ideology of administrations in power and assess heterogeneity by
-  race, gender and mortality cause.
-  + The second project, join with Wookun Kim, is in a preliminary phase and
-  will take advantage of the longitudinal Add Health data to explore health trends
-  among the LGBTQ+ community from the mid-90s to 2017. In particular, we plan to
-  observe these trends pre and post landmark state and federal legislation/rulings,
-  such as the 2015 supreme court case Obergefell v. Hodges.
+* **Political Morality Cycles**_, with Daniel Millimet, working paper, draft available upon request_
+  + Geographic inequities in mortality rates in the US are quite pronounced and growing. Yet, the causes of this inequality are not understood. Recently, the focus has been on the role of {\it place}. Formally, what is the relationship between location-specific factors and mortality inequality across space and demographic groups? We explore the importance of politics as a {\it place}-specific factor contributing to mortality inequality. Specifically, we test for the existence of {\it partisan mortality cycles} using panel data on counties from 1968--2016. Previous research has demonstrated the existence of so-called partisan business cycles, whereby economic outcomes vary according to the political regime in power. Here, we assess whether there are systematic differences in mortality depending on the political party or ideology of those in power at the federal and state levels. Overall, we confirm the existence of partisan mortality cycles. In particular, mortality is lower in counties governed by more liberal political regimes; we find mixed results when analyzing political party. We also assess heterogeneity along several dimensions, finding important differences over time, by race and sex, and across the mortality distribution. Importantly, we find no evidence of partisan mortality cycles since 2000.
+
+* **Stigma in Mental Health Care: How Peer Networks Affect Student Decisions to Seek Help**_, with Shuo Qi, in progress_
+ + 	Mental health is increasingly being recognized as a public health crisis. However, mental illness is more likely than other physical health issues to go untreated. This is particularly true in the case of adolescent mental health, where there has been growing concerns of the epidemic of depression and anxiety among teenage students. One potential barrier in adolescents receiving mental health care could be the stigmatization from peers. Normalizing the treatment of mental health care through counseling among children can have important consequences. We assess the role of peer networks on the selection into mental health care, using the Add Health data. We do this by introducing a stigma effect and mental health care selection into a network model on child cognitive and social capital development.
+  
+* **Health Trends and Impact of Obergefell v. Hodges in the LGBTQIA+ Community**_, with Wookun Kim, in progress_
