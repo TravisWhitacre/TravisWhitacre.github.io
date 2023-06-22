@@ -11,7 +11,7 @@ order: 2
   <b>Teaching Interests:</b>: Health Economics, Econometrics, Labor Economics
  
 <font size="6"><p style="border-bottom:1px solid black;"><b>Education</b></p></font> 
-<b>PhD in Economics</b>, May 2024 (Expected) <br> 
+<b>PhD in Economics</b>, May 2023 <br> 
 <i>Southern Methodist Univeristy</i> <br>
 Advised by: Daniel Millimet <br>
 Committee Members: Wookun Kim, Nathaniel Pattison <br>
@@ -23,27 +23,37 @@ Committee Members: Wookun Kim, Nathaniel Pattison <br>
 <i>West Texas A&M University</i> <br>
 Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Capstone Thesis: "An Experimental Approach to Travel Warnings"<br>
 
+<font size="6"><p style="border-bottom:1px solid black;"><b>Professional Activities</b></p></font> 
+<b>Southern Methodist University, Department of Economics</b>, June 2023 - May 2024 <br>
+<i>Dean's Postdoctoral Fellowship</i>
+
 <font size="6"><p style="border-bottom:1px solid black;"><b>Research</b></p></font>
-"Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis", <i>Working Paper, draft available upon request</i> <br>
-"Partisan Mortality Cycles", with Daniel Millimet (Southern Methodist University), <i>Working Paper, draft available upon request</i> <br>
-"Stigma in Mental Healthcare: How Peer Networks Affect Student Decisions to Seek Help", with Shuo Qi (Southern Methodist University, <i>in progress</i> <br>
-"Health Trends in the LGBTQ+ Community", with Wookun Kim (Southern Methodist University), <i>in progress</i> <br>
+"Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis", <i>Job market paper, draft available upon request</i> <br>
+"Partisan Mortality Cycles", with Daniel Millimet (Southern Methodist University), <i>Submitted for publication, draft available upon request</i> <br>
+"The Labor Market Returns of Adolescent Mental Healthcare", with Shuo Qi (Southern Methodist University, <i>Working Paper, draft available upon request</i> <br>
+"Efficiency in OR Scheduling and Children's Health", with Vishal Ahuja (Southern Methodist University), <i>in progress</i>
+"Classroom Spillover Effect of ADHD", with Wookun Kim (Southern Methodist University), <i>in progress</i> <br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Presentations</b></p></font>
 "Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis"
-<p style ="margin-left: 40px">Presidential Session at Southern Economics Association in Fort Lauderdale (2022, pending)</p>
+<p style ="margin-left: 40px">Southern Economic Association in New Orleans, LA (2023, pending) </p>
+<p style ="margin-left: 40px">American Society of Health Economics in St Lois, MO (2023)</p>
+<p style ="margin-left: 40px">Presidential Session at Southern Economics Association in Fort Lauderdale (2022)</p>
 <p style ="margin-left: 40px">American Society of Health Economics in Austin, TX (2022)</p>
 <p style ="margin-left: 40px">Society of Economic Measurement in Calgary, Canada (2022)</p>
 <p style ="margin-left: 40px">Research and Innovation Week at SMU (2022)</p>
 <p style ="margin-left: 40px">Brown Bag Seminar Series at SMU (2022)</p>
 <p style ="margin-left: 40px">3rd Year Paper Seminar at SMU (2022)</p>
-<p style ="margin-left: 40px">Spring Microeconomics Workshop at SMU (2021, 2022)</p>
+<p style ="margin-left: 40px">Microeconomics Workshop at SMU (2021, 2022)</p>
 "Partisan Mortality Cycles" <br>
 <p style ="margin-left: 40px">Canadian Economics Association in Ottawa, Canada (2022) </p>
 <p style ="margin-left: 40px">Southern Economics Association in Houston (2021) </p>
 <p style ="margin-left: 40px">Fall Microeconomics Workshop at SMU (2021) </p>
-"Stigma in Mental Healthcare: How Peer Networks Affect Student Decisions to Seek Help
-<p style ="margin-left: 40px">Southern Economics Association in Fort Lauderdale (2022, pending)</p>
+"The Labor Market Returns of Adolescent Mental Healthcare"
+<p style ="margin-left: 40px">American Society of Health Economics in St. Louis, MO (2023)</p>
+<p style ="margin-left: 40px">STATA Applied Microeconomics Conference in Southlake, TX (2023)</p>
+<p style ="margin-left: 40px">Research and Innovation Week at SMU (2023)</p>
+<p style ="margin-left: 40px">Southern Economics Association in Fort Lauderdale (2022)</p>
 "Gender Inequality and the Solow Model"
 <p style ="margin-left: 40px">13th Annual Undergraduate Research Conference at the Federal Reserve Bank of Dallas (2019)</p>
 <p style ="margin-left: 40px">West Texas A&M University Student Research Conference (2019)</p>
@@ -57,12 +67,14 @@ Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Caps
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Academic Experience</b></p></font>
 <b>Instructor, SMU</b> <br>
-Intermediate Microeconomics (Summer 2022) <br>
+Health Economics (Spring 2023) <br>
+Intermediate Microeconomics (Fall 2022) <br>
+Price Theory (Summer 2022) <br>
 
 <b>Teaching Assistant, SMU</b> <br>
-PhD Econometrics I (Spring 2022) <br> 
+PhD Econometrics II (Spring 2022, Spring 2023) <br> 
 Economic and Business Forecasting (Fall 2020, Fall 2021, Spring 2022) <br>
-Introductory Econometrics (Fall 2020, Fall 2021, Spring 2022) <br>
+Introductory Econometrics (Fall 2020, Fall 2021, Spring 2022, Spring 2023) <br>
 PhD Econometrics III (Fall 2021) <br>
 Managerial Economics (Spring 2021, Summer 2021, Fall 2021)  <br>
 Environmental Economics (Spring 2021) <br>
@@ -77,19 +89,25 @@ Principles of Microeconomics (Spring 2017 - Spring 2019) <br>
 Principles of Macroeconomics (Fall 2016 - Spring 2019) <br>
 
 <b>Research Assistant, SMU</b> <br>
-Prof. Daniel Millimet (Summer 2021, Summer 2022) <br>
-Prof. Wookun Kim (Summer 2021) <br>
+Daniel Millimet (Summer 2021, Summer 2022) <br>
+Christopher Parmeter (Summer 2022) <br>
+Wookun Kim (Summer 2021) <br>
 
 <b>Research Assistant, West Texas A&M</b> <br>
-Prof. Ryan Mattson and Prof. Anne Barthel (Fall 2016 - Spring 2019)
+Ryan Mattson and Anne Barthel (Fall 2016 - Spring 2019)
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Programming Skills</b></p></font>
-<b>Programming:</b> R, Stata, SAS, Matlab, Julia, Python <br>
+<b>Programming:</b> R, Stata, Julia, Python <br>
 <b>Typeset:</b> LaTeX (Overleaf, TeX Maker and LyX), Markdown, html, Microsoft Suites, Jupyter Notebook <br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Fellowships and Awards</b></p></font>
+<b>Dean's Postdoctoral Fellowship:</b> Southern Methodist University (2023) <br>
+<b>The Melody Rice Memorial Award:</b> Southern Methodist University (2023) <br>
+<b>Research and Innovation Week Dean's Award for Best Presentation in the Economics Group:</b> Southern Methodist University (2023) <br>
+<b>Graduate Student in Residence Fellow:</b> Southern Methodist University (2022-2023) <br>
+<b>Doctoral Teaching Fellowship:</b> Southern Methodist University (2022-2023) <br>
 <b>Best 3rd Year Paper Award:</b> Southern Methodist University (2022) <br>
-<b>Teaching Assistanship:</b> Southern Methodist University (2019-2024) <br>
+<b>Teaching Assistantship:</b> Southern Methodist University (2019-2024) <br>
 <b>Outstanding Economics Graduate:</b> West Texas A&M University College of Business Symposium (2019) <br>
 <b>Student Research Enhancement Award,</b> with Ryan Mattson and Anne Barthel: West Texas A&M College of Business Symposium (2019) <br>
 <b>1st Place Undergraduate Paper:</b> West Texas A&M Student Research Conference (2017, 2018 and 2019) <br>
@@ -99,8 +117,10 @@ Prof. Ryan Mattson and Prof. Anne Barthel (Fall 2016 - Spring 2019)
 <font size="6"><p style="border-bottom:1px solid black;"><b>Professional Activities</b></p></font>
 <b>Professional Memberships:</b> <br>
 Member of American Society of Health Economics (2021 - present) <br>
-Member of Canadian Economics Association (2022 - present) <br>
-Dedman College Student Advisory Board for Diversity and Inclusion (2022-2024) <br>
+Member of Canadian Economics Association (2022 - 2023) <br>
+Hiring Committee for Assistant Director of the Altshuler Learning Enhancement Center at SMU (2023) <br>
+Tutor for Altshuler Learning Enhancement Center at SMU (2022-2023) <br>
+Dedman College Student Advisory Board for Diversity and Inclusion (2022-2023) <br>
 Omicron Delta Epsilon (2018 - Present) <br>
 Beta Gamma Sigma (2018 - Present) <br>
 Rogers LEAD WT Program (2017-2019) <br>
@@ -110,7 +130,6 @@ Treasurer for Dedmand College Student Advisory Board for Diversity and Inclusion
 Mentor for SMU Economics Peer Mentorship Program (2020-2023) <br>
 Discussant at Canadian Economics Association (2022) <br>
 Discussant at American Society of Health Economics (2022) <br>
-Tutor for Altshuler Learning Enhancement Center at SMU (2022) <br>
 Organizer for Spring 2022 SMU Qualifying Exam Q&A Panel (2022) <br>
 Promotional Director for Ukirk SMU (2022-2023) <br>
 Guest Presenter for WT Economics Club (2021) <br>
@@ -123,10 +142,10 @@ Peer Review Board Member for Dallas Federal Reserve Economic Scholars Program (2
 Discussant for Dallas Federal Reserve Economic Scholars Program (2017-2019) <br>
 
 <b>Professional Workshops:</b> <br>
-SMU Microeconomics Workshop (2021-2022)
-American Society of Health Economics Mentoring Program (2022) <br>
+SMU Microeconomics Workshop (2021-2023) <br>
+American Society of Health Economics Mentoring Program (2022, 2023) <br>
 Electronic Health Economics Colloquium (2021-2022) <br>
 SMU How to Do Research Workshop (2021-2022) <br>
 SMU Research & Innovation Week Workshop (2022) <br>
-2021 Add Health Virtual Workshop <br>
+Add Health Virtual Workshop (2021) <br>
 SMU Experimental Economics Workshop (2020) <br>
