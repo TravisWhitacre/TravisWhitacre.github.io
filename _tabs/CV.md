@@ -31,7 +31,7 @@ Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Caps
 "Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis", <i>Job market paper, draft available upon request</i> <br>
 "Partisan Mortality Cycles", with Daniel Millimet (Southern Methodist University), <i>Submitted for publication, draft available upon request</i> <br>
 "The Labor Market Returns of Adolescent Mental Healthcare", with Shuo Qi (Southern Methodist University, <i>Working Paper, draft available upon request</i> <br>
-"Efficiency in OR Scheduling and Children's Health", with Vishal Ahuja (Southern Methodist University), <i>in progress</i>
+"Efficiency in OR Scheduling and Children's Health", with Vishal Ahuja (Southern Methodist University), <i>in progress</i> <br>
 "Classroom Spillover Effect of ADHD", with Wookun Kim (Southern Methodist University), <i>in progress</i> <br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Presentations</b></p></font>
