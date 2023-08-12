@@ -18,7 +18,7 @@ at SMU. While, all of my research fits in the health economics and applied micro
   +
   + These results provide evidence of viscous intergenerational cycles in which inequity in mental health care is driven by and reinforces socioeconomic inequities. To further explore these results, I consider which types of school and neighborhood characteristics might drive higher school level false negative rates. With merged common core data, I use bivariate OLS and LASSO methods used in Finkelstein et. al (2016) and find that it is primarily economic neighborhood characteristics as well as racial and ethnic demographics which drive higher school level false negative rates. 
 
-* **Political Morality Cycles**_, with Daniel Millimet, Submitted for publication, draft available upon request_
+* **Partisan Mortality Cycles**_, with Daniel Millimet, Submitted for publication, draft available upon request_
   + Geographic inequities in mortality rates in the US are pronounced and growing. Yet,
     the causes of this inequality are not understood. Recently, the focus has turned to the
     role of place-specific factors. Here, we explore the importance of politics as a place-specific
