@@ -89,7 +89,7 @@ Ryan Mattson and Anne Barthel (Fall 2016 - Spring 2019)
 <font size="6"><p style="border-bottom:1px solid black;"><b>Advising</b></p></font>
 <b>Undergraduate Advising</b> <br>
 Andrew Farhat <br>
-<i>Research</i> Mental Health and Stigma in Students of Immigrant Families at SMU <br>
+<i>Research:</i> Mental Health and Stigma in Students of Immigrant Families at SMU <br>
 
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Programming Skills</b></p></font>
