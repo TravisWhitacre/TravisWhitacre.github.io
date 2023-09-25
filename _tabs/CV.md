@@ -26,7 +26,7 @@ Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Caps
 <font size="6"><p style="border-bottom:1px solid black;"><b>Professional Activities</b></p></font> 
 <b>Southern Methodist University, Department of Economics</b>, June 2023 - May 2024 <br>
 <i>Dean's Postdoctoral Fellowship</i>
-
+ 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Research</b></p></font>
 "Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis", <i>Job market paper, draft available upon request</i> <br>
 "Partisan Mortality Cycles", with Daniel Millimet (Southern Methodist University), <i>Submitted for publication, draft available upon request</i> <br>
