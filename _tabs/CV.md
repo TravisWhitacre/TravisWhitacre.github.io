@@ -32,7 +32,7 @@ Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Caps
 "Partisan Mortality Cycles", with Daniel Millimet (Southern Methodist University), <i>Submitted for publication, draft available upon request</i> <br>
 "The Labor Market Returns of Adolescent Mental Healthcare", with Shuo Qi (Southern Methodist University, <i>Working Paper, draft available upon request</i> <br>
 "Efficiency in OR Scheduling and Children's Health", with Vishal Ahuja (Southern Methodist University), <i>in progress</i> <br>
-"Classroom Spillover Effect of ADHD", with Wookun Kim (Southern Methodist University), <i>in progress</i> <br>
+"Twin Epidemics: The Intersection of the Adolescent Mental Health Crisis and the Synthetic Opioid Crisis", <i>in progress</i> <br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Presentations</b></p></font>
 "Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis"
