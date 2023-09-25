@@ -1,3 +1,9 @@
+---
+title: Teaching
+icon: fas fa-Teaching
+order: 2
+---
+
 I have taught three Economics courses at SMU, as the sole instructor on record for two sections of undergraduate Intermediate Microeconomics (Price Theory) and one section of undergraduate Health Economics, which focused on health care markets and insurance. I have also been a teaching assistant for Econometrics courses at all levels (PhD, masters, and undergraduate), MBA level Managerial Economics, undergraduate level Economic and Business Forecasting, Environmental Economics, Economics of Human Rights, Strategic Behavior, Money and Banking, Principles of Economics, and International Trade. I would be interested in continuing to teach Health Economics and Price Theory courses, as well as designing courses in Labor Economics, Economics of Education, Econometrics, and Public Health at both the graduate or undergraduate level. I can teach any topic at the undergraduate level where there is need by the university.
 
 I emphasize and incorporate the following three evidence-based approaches into my teaching practice:
