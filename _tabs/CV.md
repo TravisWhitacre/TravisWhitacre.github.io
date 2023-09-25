@@ -54,16 +54,6 @@ Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Caps
 <p style ="margin-left: 40px">STATA Applied Microeconomics Conference in Southlake, TX (2023)</p>
 <p style ="margin-left: 40px">Research and Innovation Week at SMU (2023)</p>
 <p style ="margin-left: 40px">Southern Economics Association in Fort Lauderdale (2022)</p>
-"Gender Inequality and the Solow Model"
-<p style ="margin-left: 40px">13th Annual Undergraduate Research Conference at the Federal Reserve Bank of Dallas (2019)</p>
-<p style ="margin-left: 40px">West Texas A&M University Student Research Conference (2019)</p>
-"An Experimental Approach to Travel Advisories"
-<p style ="margin-left: 40px">12th Annual Undergraduate Research Conference at the Federal Reserve Bank of Dallas (2018)</p>
-<p style ="margin-left: 40px">West Texas A&M University Student Research Conference (2018)</p>
-<p style ="margin-left: 40px">15th Annual Pathways Student Research Symposium in Canyon, TX (2018)</p>
-"Economic Impact of Zika on the Tourism Industry of Miami-Dade County"
-<p style ="margin-left: 40px">Great Plains Honors Conference in Beaumont, TX (2017)</p>
-<p style ="margin-left: 40px">West Texas A&M University Student Research Conference (2017)</p>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Academic Experience</b></p></font>
 <b>Instructor, SMU</b> <br>
@@ -96,6 +86,12 @@ Wookun Kim (Summer 2021) <br>
 <b>Research Assistant, West Texas A&M</b> <br>
 Ryan Mattson and Anne Barthel (Fall 2016 - Spring 2019)
 
+<font size="6"><p style="border-bottom:1px solid black;"><b>Advising</b></p></font>
+<b>Undergraduate Advising</b> <br>
+Andrew Farhat <br>
+<i>Research</i> Mental Health and Stigma in Students of Immigrant Families at SMU <br>
+
+
 <font size="6"><p style="border-bottom:1px solid black;"><b>Programming Skills</b></p></font>
 <b>Programming:</b> R, Stata, Julia, Python <br>
 <b>Typeset:</b> LaTeX (Overleaf, TeX Maker and LyX), Markdown, html, Microsoft Suites, Jupyter Notebook <br>
@@ -125,6 +121,7 @@ Omicron Delta Epsilon (2018 - Present) <br>
 Beta Gamma Sigma (2018 - Present) <br>
 Rogers LEAD WT Program (2017-2019) <br>
 <b>Professional Services:</b> <br>
+Referee for Economic Modelling <br>
 President of SMU Econ Graduate Club (2021-2023) <br>
 Treasurer for Dedmand College Student Advisory Board for Diversity and Inclusion (2022-2023) <br>
 Mentor for SMU Economics Peer Mentorship Program (2020-2023) <br>
