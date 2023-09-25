@@ -1,7 +1,7 @@
 ---
 title: CV
 icon: fas fa-CV
-order: 2
+order: 3
 ---
  
 <font size="12"><p style="text-align: center;"><b>Travis R. Whitacre</b></p></font>
