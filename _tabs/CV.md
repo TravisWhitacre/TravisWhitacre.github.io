@@ -112,6 +112,7 @@ Andrew Farhat <br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Professional Activities</b></p></font>
 <b>Professional Memberships:</b> <br>
+Member of The Texas Early Career Health Economics Network (2023 - present) <br>
 Member of American Society of Health Economics (2021 - present) <br>
 Member of Canadian Economics Association (2022 - 2023) <br>
 Hiring Committee for Assistant Director of the Altshuler Learning Enhancement Center at SMU (2023) <br>
