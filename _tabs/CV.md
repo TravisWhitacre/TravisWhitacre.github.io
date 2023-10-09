@@ -122,7 +122,8 @@ Omicron Delta Epsilon (2018 - Present) <br>
 Beta Gamma Sigma (2018 - Present) <br>
 Rogers LEAD WT Program (2017-2019) <br>
 <b>Professional Services:</b> <br>
-Referee for Economic Modelling <br>
+Referee for Economic Modelling (2023) <br>
+Search Committee for Assistant Director of Altshuler Learning Enhancement Center at SMU (2023) <br>
 President of SMU Econ Graduate Club (2021-2023) <br>
 Treasurer for Dedmand College Student Advisory Board for Diversity and Inclusion (2022-2023) <br>
 Mentor for SMU Economics Peer Mentorship Program (2020-2023) <br>
