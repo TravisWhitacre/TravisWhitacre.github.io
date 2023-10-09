@@ -4,7 +4,7 @@ icon: fas fa-Diversity
 order: 3
 ---
 
-During my time at SMU, I have committed to supporting the University’s diversity, equity, and inclusion initiatives through my research, teaching initiatives, and service to committees. At a campus whose student body is made up by people of diverse race, ethnicity, gender identity, religion, sexual orientation, socioeconomic background, and neurodiversity, it is imperative that my professional activities foster an institutional culture where all people can feel belonging. 
+During my time at SMU, I have committed to supporting the University’s diversity, equity, and inclusion initiatives through my research, teaching initiatives, and service to committees. At a campus whose student body is made up by people of diverse race, ethnicity, gender identity, religion, sexual orientation, socioeconomic background, and neurodiversity, it is imperative that my professional activities foster an institutional culture where all people can feel belonging.
 
 At SMU, I served on the Dedman College Student Advisory Board created by the Dedman College Diversity and Inclusion office to advise the Dean on the emerging needs and expectations of students from varying backgrounds and demographic groups. I was selected to inform the Dean on the needs of social science PhD students, as well as accommodation accessibility for student’s with ADHD and other neurodiversity needs.
 
