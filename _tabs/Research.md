@@ -6,6 +6,20 @@ order: 1
 
 <img src="https://pbs.twimg.com/media/Ft8ezThaQAguPfL?format=jpg&name=large" alt="Defense 2023">
 
+<font size="6"><b>Current Projects</b></font>
+
+<b>Hidden in Plain Sight: Prevalence and Impact of Undiagnosed ADHD</b> (<a href="https://drive.google.com/file/d/1ggDvEzWM4mXRLY63o4HMyGhUoyYleZ73/view?usp=sharing">Job Market Paper</a>)
+
+<b>Partisan Mortality Cycles</b>, with Daniel Millimet (<a href="https://smu.app.box.com/s/114p6kflefc2j1ul5ixsff633g1xmfc3">Working Paper, Under Review for Publication</a>)
+
+<b>The Labor Market Returns of Adolescent Mental Health Care</b>, with Shuo Qi (Working Paper)
+
+<b>Efficiency in OR Scheduling and Children's Health</b>, with Vishal Ahuja (Work in Progress)
+
+<b>Twin Epidemics: The Intersection of the Adolescent Mental Health Crisis and the Synthetic Opioid Crisis</b> (Work in Progress)
+
+<font size="6"><b>Research Statement</b></font>
+
 Mental health is increasingly being recognized as a public health crisis. However, mental illness is more likely than other physical health issues to go untreated. This is particularly true in the case of adolescent mental health, where there has been growing concern about an epidemic of depression and anxiety among teenage students. My dissertation, <b>“Three Essays in the Economics of Child Development and Health Inequities”</b>, primarily explores the intersections of adolescent mental health with education, labor market outcomes, and public health inequities.
 
 In my job market paper, <b>“Hidden in Plain Sight: The Prevalence and Impact of ADHD Underdiagnosis”</b>, I assess the long-term education and labor market effects of missed ADHD diagnoses. Doing so is challenging for two reasons. First, a person’s true ADHD status is unobserved; only their diagnosed status is known. Second, even if diagnostic errors are observed, they are likely akin to non-classical misclassification errors and therefore endogenous. To overcome these empirical challenges, I use and extend on a partial observability model and estimate it with restricted data, including genetic information, from Add Health. I recover an estimate of individuals’ true ADHD status; and their probability of underdiagnosis. Then, I estimate their effect on educational attainment and adult financial outcomes. 
