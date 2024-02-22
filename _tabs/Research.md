@@ -8,7 +8,7 @@ order: 1
 
 <font size="6"><b>Current Projects</b></font>
 
-<b>Hidden in Plain Sight: Prevalence and Impact of Undiagnosed ADHD</b> (<a href="https://drive.google.com/file/d/1GnX5y1yKBYi_tDbe85E6h9O97Yb5G7dI/view?usp=drive_link">Job Market Paper</a>)
+<b>Hidden in Plain Sight: Prevalence and Impact of Undiagnosed ADHD</b> (<a href="https://drive.google.com/file/d/1M3ZwCkzAf1pTwHQLbebjedDAXZl1jtaL/view?usp=sharing">Job Market Paper</a>)
 
 <b>Partisan Mortality Cycles</b>, with Daniel Millimet (<a href="https://smu.app.box.com/s/114p6kflefc2j1ul5ixsff633g1xmfc3">Working Paper, Under Review for Publication</a>)
 
