@@ -6,7 +6,7 @@ order: 1
 
 <img src="https://pbs.twimg.com/media/Ft8ezThaQAguPfL?format=jpg&name=large" alt="Defense 2023">
 
-<font size="6"><b>Current Projects</b></font>
+<font size="6"><p style="border-bottom:1px solid black;"><b>Current Projects</b></p></font> 
 
 <b>Hidden in Plain Sight: Prevalence and Impact of Undiagnosed ADHD</b> (<a href="https://drive.google.com/file/d/1pcdRdH9rPn7CdGT960VaFrPoCYjr28C2/view?usp=drive_link">Job Market Paper</a>)
 
@@ -26,7 +26,7 @@ order: 1
 
 <b>Twin Epidemics: The Intersection of the Adolescent Mental Health Crisis and the Synthetic Opioid Crisis</b> (Work in Progress)
 
-<font size="6"><b>Research Statement</b></font>
+<font size="6"><p style="border-bottom:1px solid black;"><b>Research Statement</b></p></font> 
 
 Mental health is increasingly being recognized as a public health crisis. However, mental illness is more likely than other physical health issues to go untreated. This is particularly true in the case of adolescent mental health, where there has been growing concern about an epidemic of depression and anxiety among teenage students. My research primarily explores the intersections of adolescent mental health with education, labor market outcomes, public health policy, and health inequities.
 
