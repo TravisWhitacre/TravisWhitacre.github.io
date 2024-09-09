@@ -20,7 +20,7 @@ order: 1
 
 <b>Constructing a Time Consistent Synthetic K6 for the National Health Interview Survey</b>, with Abigail Friedman (Working Paper)
 
-<b>Trendsi n Young Adult Combustible Tobacco Usage</b>, with Abigail Friedman and Michael Pesko (Work in Progress)
+<b>Trends in Young Adult Combustible Tobacco Usage</b>, with Abigail Friedman and Michael Pesko (Work in Progress)
 
 <b>Assessing the Impact of Flavor Restrictions on Smoking and Vaping</b>, with Abigail Friedman (Work in Progress)
 
