@@ -25,35 +25,27 @@ Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Caps
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Professional Activities</b></p></font> 
 <b>Southern Methodist University, Department of Economics</b>, June 2023 - May 2024 <br>
-<i>Dean's Postdoctoral Fellowship</i>
+<i>Dean's Postdoctoral Fellowship</i> <br>
  
 <font size="6"><p style="border-bottom:1px solid black;"><b>Research</b></p></font>
-"Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis", <i>Job market paper, draft available upon request</i> <br>
-"Partisan Mortality Cycles", with Daniel Millimet (Southern Methodist University), <i>Submitted for publication, draft available upon request</i> <br>
-"The Labor Market Returns of Adolescent Mental Healthcare", with Shuo Qi (Southern Methodist University, <i>Working Paper, draft available upon request</i> <br>
-"Efficiency in OR Scheduling and Children's Health", with Vishal Ahuja (Southern Methodist University), <i>in progress</i> <br>
-"Twin Epidemics: The Intersection of the Adolescent Mental Health Crisis and the Synthetic Opioid Crisis", <i>in progress</i> <br>
+"Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis", <i>Under Review, draft available upon request</i> <br>
+"Partisan Mortality Cycles", with Daniel Millimet, <i>Revise and Resubmit at Journal of Population Economics, draft available upon request</i> <be>
+"Flavored E-cigarette Sales Restrictions and Young Adult Tobacco Use in the United States", with Abigail Friedman and Michael Pesko, _Under Review_
+"Tobacco Product Flavor Policies in the United States", with Alyssa Crippen, Abigail Friedman, Alex Liber, Mayah Monthrope, and Tanisha Narine, _Under Review_
+"The Labor Market Returns of Adolescent Mental Healthcare", with Shuo Qi, <i>Working Paper, draft available upon request</i> <br>
+"Constructing a Time Consistent Synthetic K6 for the National Health Interview Survey", with Abigail Friedman, _Working Paper_ <br>
+"Trends in Young Adult Combustible Tobacco Usage", with Abigail Friedman and Michael Pesko, _Work in Progress_ <br>
+"Assessing the Impact of Flavor Restrictions on Smoking and Vaping", with Abigail Friedman, _Work in Progress_ <br>
+"Twin Epidemics: The Intersection of the Adolescent Mental Health Crisis and the Synthetic Opioid Crisis", <i>Work in Progress</i> <br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Presentations</b></p></font>
-"Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis"
-<p style ="margin-left: 40px">Southern Economic Association in New Orleans, LA (2023, pending) </p>
-<p style ="margin-left: 40px">American Society of Health Economics in St Lois, MO (2023)</p>
-<p style ="margin-left: 40px">Presidential Session at Southern Economics Association in Fort Lauderdale (2022)</p>
-<p style ="margin-left: 40px">American Society of Health Economics in Austin, TX (2022)</p>
-<p style ="margin-left: 40px">Society of Economic Measurement in Calgary, Canada (2022)</p>
-<p style ="margin-left: 40px">Research and Innovation Week at SMU (2022)</p>
-<p style ="margin-left: 40px">Brown Bag Seminar Series at SMU (2022)</p>
-<p style ="margin-left: 40px">3rd Year Paper Seminar at SMU (2022)</p>
-<p style ="margin-left: 40px">Microeconomics Workshop at SMU (2021, 2022)</p>
-"Partisan Mortality Cycles" <br>
-<p style ="margin-left: 40px">Canadian Economics Association in Ottawa, Canada (2022) </p>
-<p style ="margin-left: 40px">Southern Economics Association in Houston (2021) </p>
-<p style ="margin-left: 40px">Fall Microeconomics Workshop at SMU (2021) </p>
-"The Labor Market Returns of Adolescent Mental Healthcare"
-<p style ="margin-left: 40px">American Society of Health Economics in St. Louis, MO (2023)</p>
-<p style ="margin-left: 40px">STATA Applied Microeconomics Conference in Southlake, TX (2023)</p>
-<p style ="margin-left: 40px">Research and Innovation Week at SMU (2023)</p>
-<p style ="margin-left: 40px">Southern Economics Association in Fort Lauderdale (2022)</p>
+**2024:** American Society of Health Economics in San Diego; SMU Alumni Conference; Fall 2024 TCORS Grantee Meeting Planning Committee; Southern Economic Association <br>
+
+**2023:** American Society of Health Economics; Southern Economics Association; Invited Presentation at the Environmental Protection Agency; STATA Texas Empirical Micro Conference; SMU Research and Innovation Week; SMU Brown Bag Seminar Series; Dedman College Interdisciplinary Institute Seminar Series <br>
+
+**2022:** American Society of Health Economics; Canadian Economics Assocation; Southern Economic Association; Society of Economic Measurement; SMU Research and Innovation Week; SMU Brown Bag Seminar Series <br>
+
+**2021:** Southern Economic Assocation <br>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Academic Experience</b></p></font>
 <b>Instructor, SMU</b> <br>
@@ -108,7 +100,7 @@ Andrew Farhat <br>
 <b>Student Research Enhancement Award,</b> with Ryan Mattson and Anne Barthel: West Texas A&M College of Business Symposium (2019) <br>
 <b>1st Place Undergraduate Paper:</b> West Texas A&M Student Research Conference (2017, 2018 and 2019) <br>
 <b>Economics Club Leadership Award:</b> West Texas A&M College of Business Symposium (2018) <br>
-<b>2nd Place Undergraduate Presentation:</b> West Texas A&M Student Research Conference (2017)
+<b>2nd Place Undergraduate Presentation:</b> West Texas A&M Student Research Conference (2017) <be>
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Professional Activities</b></p></font>
 <b>Professional Memberships:</b> <br>
@@ -121,7 +113,11 @@ Dedman College Student Advisory Board for Diversity and Inclusion (2022-2023) <b
 Omicron Delta Epsilon (2018 - Present) <br>
 Beta Gamma Sigma (2018 - Present) <br>
 Rogers LEAD WT Program (2017-2019) <br>
+
 <b>Professional Services:</b> <br>
+Mentor for Rogers Lead WT Mentorship Program (2024) <br>
+Notetaker for CAsToR 2024 Annual Meeting (2024) <br>
+Referee for BMC Health Services Research (2024) <br>
 Referee for Economic Modelling (2023) <br>
 Search Committee for Assistant Director of Altshuler Learning Enhancement Center at SMU (2023) <br>
 President of SMU Econ Graduate Club (2021-2023) <br>
@@ -141,7 +137,6 @@ Peer Review Board Member for Dallas Federal Reserve Economic Scholars Program (2
 Discussant for Dallas Federal Reserve Economic Scholars Program (2017-2019) <br>
 
 <b>Professional Workshops:</b> <br>
-SMU Microeconomics Workshop (2021-2023) <br>
 American Society of Health Economics Mentoring Program (2022, 2023) <br>
 Electronic Health Economics Colloquium (2021-2022) <br>
 SMU How to Do Research Workshop (2021-2022) <br>
