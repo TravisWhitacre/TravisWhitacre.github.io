@@ -23,8 +23,12 @@ Committee Members: Wookun Kim, Nathaniel Pattison <br>
 <i>West Texas A&M University</i> <br>
 Minor in Mathematics <br> Summa Cum Laude <br> Attebury Honors Scholar <br> Capstone Thesis: "An Experimental Approach to Travel Warnings"<br>
 
-<font size="6"><p style="border-bottom:1px solid black;"><b>Professional Activities</b></p></font> 
-<b>Southern Methodist University, Department of Economics</b>, June 2023 - May 2024 <br>
+<font size="6"><p style="border-bottom:1px solid black;"><b>Professional Appointments</b></p></font> 
+**Yale University, School of Public Health**, April 2024 - Present <br>
+_Postdoctoral Associate in the Department of Health Policy and Management_ <br>
+**University of Michigan**, April 2024 - Present <br>
+_Active Junior Investigator in the Center for the Assessment of Tobacco Regulation (CAsToR)_ <br>
+<b>Southern Methodist University, Department of Economics</b>, June 2023 - April 2024 <br>
 <i>Dean's Postdoctoral Fellowship</i> <br>
  
 <font size="6"><p style="border-bottom:1px solid black;"><b>Research</b></p></font>
