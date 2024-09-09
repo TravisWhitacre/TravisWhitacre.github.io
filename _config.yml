@@ -19,10 +19,10 @@ timezone: America/Chicago
 
 title: Travis Whitacre                          # the main title
 
-tagline: SMU Department of Economics   # it will display as the sub-title
+tagline: Yale University   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  I am an economics PhD student whose fields
+  I am a Postdoctoral Associate whose fields
   are health economics, economics of education and applied microeconomics
   with intersection into economic education and demography.
 
@@ -39,7 +39,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Travis_R._Whitacre
-  email: twhitacre@smu.edu             # change to your email address
+  email: travisrewhitacre@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/TravisWhitacre      # change to your twitter homepage
