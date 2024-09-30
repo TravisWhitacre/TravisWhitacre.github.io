@@ -4,7 +4,7 @@ icon: fas fa-CV
 order: 4
 ---
  
-<font size="12"><p style="text-align: center;"><b>Travis R. Whitacre</b></p></font>
+<font size="12"><p style="text-align: center;"><b>Travis R. Whitacre</b></p></font> 
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Research and Teaching Interests</b></p></font>
   <b>Research Interests:</b> Health Economics, Applied Microeconometrics, Economics of Education<br>
