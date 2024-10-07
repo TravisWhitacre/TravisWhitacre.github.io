@@ -14,7 +14,7 @@ order: 1
 
 <b>Flavored E-cigarette Sales Restrictions and Young Adult Tobacco Use in the United States</b>, with Abigail Friedman and Michael Pesko, Revise and Resubmit at JAMA Health Forum
 
-<b>Tobacco Product Flavor Policies in the United States</b>, with Alyssa Crippen, Abigail Friedman, Alex Liber, Mayah Monthrope, and Tanisha Narine (Under Review)
+<b>Tobacco Product Flavor Policies in the United States</b>, with Alyssa Crippen, Abigail Friedman, Alex Liber, Mayah Monthrope, and Tanisha Narine, Revise and Resubmit at Tobacco Control
 
 <b>The Labor Market Returns of Adolescent Mental Health Care</b>, with Shuo Qi (Working Paper)
 
