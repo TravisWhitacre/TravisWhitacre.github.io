@@ -35,7 +35,7 @@ _Active Junior Investigator in the Center for the Assessment of Tobacco Regulati
 "Hidden in Plain Sight: Prevalence and Impact of ADHD Underdiagnosis", <i>Under Review, draft available upon request</i> <br>
 "Partisan Mortality Cycles", with Daniel Millimet, <i>Revise and Resubmit at Journal of Population Economics, draft available upon request</i> <br>
 "Flavored E-cigarette Sales Restrictions and Young Adult Tobacco Use in the United States", with Abigail Friedman and Michael Pesko, _Revise and Resubmit at JAMA Health Forum_ <br>
-"Tobacco Product Flavor Policies in the United States", with Alyssa Crippen, Abigail Friedman, Alex Liber, Mayah Monthrope, and Tanisha Narine, _Under Review_ <br>
+"Tobacco Product Flavor Policies in the United States", with Alyssa Crippen, Abigail Friedman, Alex Liber, Mayah Monthrope, and Tanisha Narine, _Revise and Resubmit at Tobacco Control_ <br>
 "The Labor Market Returns of Adolescent Mental Healthcare", with Shuo Qi, <i>Working Paper, draft available upon request</i> <br>
 "Constructing a Time Consistent Synthetic K6 for the National Health Interview Survey", with Abigail Friedman, _Working Paper_ <br>
 "Trends in Young Adult Combustible Tobacco Usage", with Abigail Friedman and Michael Pesko, _Work in Progress_ <br>
