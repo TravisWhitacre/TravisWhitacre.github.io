@@ -12,7 +12,7 @@ order: 1
 
 <b>Partisan Mortality Cycles</b>, with Daniel Millimet (<a href="https://drive.google.com/file/d/1eYWhhHkbsWgeyT-XcD_tCWpAncy0ILNf/view?usp=drive_link">Revise and Resubmit at Journal of Population Economics</a>)
 
-<b>Flavored E-cigarette Sales Restrictions and Young Adult Tobacco Use in the United States</b>, with Abigail Friedman and Michael Pesko, Revise and Resubmit at JAMA Health Forum
+<b>Flavored E-cigarette Sales Restrictions and Young Adult Tobacco Use in the United States</b>, with Abigail Friedman and Michael Pesko, JAMA Health Forum, Forthcoming
 
 <b>Tobacco Product Flavor Policies in the United States</b>, with Alyssa Crippen, Abigail Friedman, Alex Liber, Mayah Monthrope, and Tanisha Narine, Revise and Resubmit at Tobacco Control
 
