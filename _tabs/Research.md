@@ -3,7 +3,7 @@ title: Research
 icon: fas fa-Research
 order: 1
 ---
-
+ 
 <img src="https://pbs.twimg.com/media/Ft8ezThaQAguPfL?format=jpg&name=large" alt="Defense 2023">
 
 <font size="6"><p style="border-bottom:1px solid black;"><b>Current Projects</b></p></font> 
