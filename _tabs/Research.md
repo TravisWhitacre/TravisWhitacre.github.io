@@ -4,8 +4,6 @@ icon: fas fa-Research
 order: 1
 ---
  
-<img src="https://pbs.twimg.com/media/Ft8ezThaQAguPfL?format=jpg&name=large" alt="Defense 2023">
-
 <font size="6"><p style="border-bottom:1px solid black;"><b>Current Projects</b></p></font> 
 
 <b>Hidden in Plain Sight: Prevalence and Impact of Undiagnosed ADHD</b> (<a href="https://drive.google.com/file/d/1pcdRdH9rPn7CdGT960VaFrPoCYjr28C2/view?usp=drive_link">Job Market Paper</a>)
